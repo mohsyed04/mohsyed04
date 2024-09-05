@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br><br>I am a Software Engineer💻  experienced in building scalable systems in Linux environments using Python and C.
+Hi 👋<br><br>I am a Software Engineer💻 experienced in building high performance & scalable systems in Linux environments using Python and C.
 
 
 ## 🌐 Socials:
