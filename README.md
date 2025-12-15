@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋<br><br>I am a software engineer 💻 with experience building fast, multi-threaded, and asynchronous systems on Linux. I work with Docker, C, and Python to create microservices, APIs, and hardware interface code.
+# About Me:
+Hi <br><br>I am a software engineer 💻 with experience building fast, multi-threaded, and asynchronous systems on Linux. I work with Docker, C, and Python to create microservices, APIs, and hardware interface code.
 
 
 ## 🌐 Socials:
